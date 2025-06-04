@@ -1,0 +1,18 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+/target/
+
+# Sistema
+*.log
+*.tmp
+
+# IDEs
+.idea/
+*.iml
+
+# Otros
+.DS_Store
